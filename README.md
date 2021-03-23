@@ -1,0 +1,2 @@
+# fortune
+homework for Alexa
